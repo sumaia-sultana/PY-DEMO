@@ -1,0 +1,11 @@
+### IT'S A PRACTICE GIT OF BASIC PYTHON LEARNING AND PROBLEM SOLVING ###
+
+
+---
+
+
+### RUN IN TERMINAL:
+
+python fileName.py
+
+
